@@ -1,0 +1,17 @@
+C:\Users\nelson\Desktop\1A2B\bin\Debug\1A2B.exe.config
+C:\Users\nelson\Desktop\1A2B\bin\Debug\1A2B.exe
+C:\Users\nelson\Desktop\1A2B\bin\Debug\1A2B.pdb
+C:\Users\nelson\Desktop\1A2B\obj\Debug\_1A2B.Form1.resources
+C:\Users\nelson\Desktop\1A2B\obj\Debug\_1A2B.Properties.Resources.resources
+C:\Users\nelson\Desktop\1A2B\obj\Debug\1A2B.csproj.GenerateResource.Cache
+C:\Users\nelson\Desktop\1A2B\obj\Debug\1A2B.csproj.CoreCompileInputs.cache
+C:\Users\nelson\Desktop\1A2B\obj\Debug\1A2B.exe
+C:\Users\nelson\Desktop\1A2B\obj\Debug\1A2B.pdb
+C:\Users\nelson\Desktop\1A2B\bin\Debug\Interop.WMPLib.dll
+C:\Users\nelson\Desktop\1A2B\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nelson\Desktop\1A2B\obj\Debug\Interop.WMPLib.dll
+C:\Users\nelson\Desktop\1A2B\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nelson\Desktop\1A2B\obj\Debug\1A2B.csproj.ResolveComReference.cache
+C:\Users\nelson\Desktop\1A2B\obj\Debug\_1A2B.Form2.resources
+C:\Users\nelson\Desktop\1A2B\obj\Debug\_1A2B.Form3.resources
+C:\Users\nelson\Desktop\1A2B\obj\Debug\1A2B.csprojResolveAssemblyReference.cache
